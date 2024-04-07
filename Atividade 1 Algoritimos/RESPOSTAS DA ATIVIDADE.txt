@@ -1,0 +1,20 @@
+1 - Letra A) Nada é impresso, ocorre um erro de execução;
+
+  Cell In[15], line 1
+    dia = “quinta-feira”
+          ^
+SyntaxError: invalid character '“' (U+201C)
+
+O erro acontece pois o “quinta-feira” está com as aspas erradas.
+
+2 - FALSO. Devido a formatação requerida para ser um nome de variavel os carácteres "_" não são aceitos.
+
+
+3 - LETRA C) c) 4, 2, 4.5;
+
+4 - LETRA A) a) <class 'str'>;
+
+5 - LETRA A) 14, 768;
+
+6 - LETRA C) 11;
+
