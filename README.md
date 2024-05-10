@@ -1,1 +1,1 @@
-Repositorio de Atividades da Minha Faculdade de Ads
+Repositorio de Atividades da Minha Faculdade de ADS
